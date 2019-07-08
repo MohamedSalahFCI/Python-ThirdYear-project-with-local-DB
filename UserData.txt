@@ -1,0 +1,6 @@
+
+mohamed;12345;ismailia;01090701456;21;
+salah;112233;ismailia;01009300827;53;
+mohamed;5544;ismailia;01004596456;22;
+momo;114477;ismailia;01090701456;21;
+mohamed;0112;ismailia;01090701456;21;
